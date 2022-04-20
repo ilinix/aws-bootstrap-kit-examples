@@ -5,7 +5,7 @@
     "github_alias": "ilinix",
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
-    "email": "workspace@ilinix.com",
+    "email": "a.abuhannoud@ilinix.com",
     "domain_name": "ilinix.cc",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
